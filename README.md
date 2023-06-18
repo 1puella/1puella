@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there! I'm Sofia
+
+### About me
+
+I have a bachelor's degree in Applied Foreign Languages at University of Brasilia, Brazil. I like reading books and learning about accessibility. I'm currently working as a webwriter at Alura and learning HTML, CSS and JavaScript.
 
 <!--
 **1puella/1puella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
